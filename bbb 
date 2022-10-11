@@ -1,0 +1,19 @@
+import socket
+import requests
+file = open('url.txt').read().split()
+for url in file:
+    domain = url.split('//')[1].replace('www.', '').replace('/', '')
+    try :
+        ipadrre = socket.gethostbyname(domain)
+        
+        print(ipadrre)
+        
+        for urldata in ipadrre:
+            with open("ip.txt", "a") as f:
+                f.write(urldata+"\n")
+                
+                
+            
+    except:
+        pass
+ 
