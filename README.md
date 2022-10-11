@@ -12,7 +12,7 @@ $ pkg install git
 
 $ git clone https://github.com/H0rn3t-Sp1d3rs/ip-find-
 
-$ cd ip-find-
+$ cd ip-find
 
 $ python2 ip.py
 
