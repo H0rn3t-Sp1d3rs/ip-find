@@ -18,7 +18,8 @@ $ python2 ip.py
 
 ```
 <br>
-![bd](https://user-images.githubusercontent.com/97798085/195194046-550b1c67-b768-4f9b-98a8-e885114064d1.png)
+![Screenshot_20221012-023545](https://user-images.githubusercontent.com/97798085/195194617-5f212d83-6964-4c8d-8fae-18893ab3ed3b.png)
+
 
 <br>
 <h3 align="left">Contact with me:</h3>
