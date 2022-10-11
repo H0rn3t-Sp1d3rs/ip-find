@@ -10,7 +10,7 @@ $ pkg install python
 
 $ pkg install git
 
-$ git clone https://github.com/H0rn3t-Sp1d3rs/ip-find-
+$ git clone https://github.com/H0rn3t-Sp1d3rs/ip-find
 
 $ cd ip-find
 
