@@ -18,7 +18,7 @@ $ python2 ip.py
 
 ```
 <br>
-![Screenshot_20221012-023545](https://user-images.githubusercontent.com/97798085/195194617-5f212d83-6964-4c8d-8fae-18893ab3ed3b.png)
+<img src="https://user-images.githubusercontent.com/97798085/195194617-5f212d83-6964-4c8d-8fae-18893ab3ed3b.png">
 
 
 <br>
