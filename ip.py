@@ -43,10 +43,7 @@ for url in file:
         print("\033[1;32;40m ")
         print(ipadrre)
         
-        for urldata in ipadrre:
-            with open("ip.txt", "a") as f:
-                f.write(urldata+"\n")
-                            
+       
     except:
         pass
 
